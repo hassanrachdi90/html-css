@@ -1,0 +1,32 @@
+nav { 
+    
+    display: inline ;
+    
+}
+
+body {
+
+font-family:'Roboto';
+
+}
+
+.navbar{
+    text-align: center;
+    background-color: rgb(7, 123, 131);
+    height: 50px;
+    
+}
+
+.hassan {
+   
+    color: red;
+}
+
+li {
+
+display: inline ;
+}
+#video {
+
+    border: 5px solid blue;
+}
